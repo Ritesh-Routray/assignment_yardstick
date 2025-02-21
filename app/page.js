@@ -1,7 +1,7 @@
 "use client"
 import TransactionForm from "@/app/components/TransactionForm";
 import TransactionList from "@/app/components/TransactionList";
-import ExpenseChart from "@/app/components/ExpenseChart";
+import ExpenseChart from "@/app/components/ExpenceChart";
 import { useState } from "react";
 import Dashboard from "./components/Dashboard";
 
